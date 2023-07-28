@@ -1,0 +1,20 @@
+{
+  "name": "txx-markdownlint-config",
+  "version": "1.0.0",
+  "description": "小茜的markdownlint配置文件",
+  "author": "Tang xiao xi",
+  "main": "index.json",
+  "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
+  "keywords": [
+    "tang",
+    "markdown",
+    "lint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/markdownlint.test.js"
+  }
+}
